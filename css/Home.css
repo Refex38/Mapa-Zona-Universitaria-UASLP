@@ -354,6 +354,7 @@ footer{
     main img{
         width: 450px;
         height: 300px;
+        scale: .9;
     }
 
     aside{
@@ -378,5 +379,6 @@ footer{
     main img{
         width: 325px;
         height: 220px;
+        scale: .9;
     }
 }
