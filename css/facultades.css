@@ -89,6 +89,11 @@
     box-shadow: 0 0 .5rem var(--congress-blue-900);
 }
 
+.contenido-acordeon li{
+    font-size: 1.2rem;
+    color: var(--congress-blue-900);
+}
+
 @media (max-width: 858px){
     .facultades{
         grid-template-columns: 1fr;
